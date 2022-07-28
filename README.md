@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Structures And Algorithm
 - 💞️ Not yet for collaborations
-- 📫 How to reach me ...
+- 📫 How to reach me ... E-Mail - suryanshx25@gmail.com
 
 <!---
 suryanshx25/suryanshx25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
