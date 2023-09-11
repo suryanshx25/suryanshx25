@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @suryanshx25
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Structures And Algorithm
+- 👋 Hi, I’m Suryansh Singh
+- 👀 I’m interested in Data Science
+- 🌱 Currently practicing Machine Learning 
 - 💞️ Not yet for collaborations
 - 📫 How to reach me ... E-Mail - suryanshx25@gmail.com
 
