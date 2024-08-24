@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suryansh Singh
-- 👀 I’m interested in Data Science
-- 🌱 Currently practicing Machine Learning 
+- 👀 Data Science
+- 🌱 practicing MLOps
 - 💞️ Not yet for collaborations
 - 📫 How to reach me ... E-Mail - suryanshx25@gmail.com
 
